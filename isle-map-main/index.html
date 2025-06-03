@@ -447,6 +447,27 @@
 
     </script>
 
+    <script>
+        window.addEventListener('load', () => {
+        const sendHeight = () => {
+            const height = document.documentElement.scrollHeight;
+            parent.postMessage({ type: 'iframe-resize', height }, '*');
+        };
+
+        sendHeight();
+
+        // Optionally re-send on resize or DOM changes
+        window.addEventListener('resize', sendHeight);
+
+        // Watch for mutations
+        new MutationObserver(sendHeight).observe(document.body, {
+            childList: true,
+            subtree: true,
+            attributes: true
+        });
+        });
+        </script>
+
 </body>
 
 </html>
