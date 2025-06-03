@@ -36,7 +36,7 @@ var config = {
             description: 'Darius and Wealee Nupolu immigrated from Liberia and now live in Iowa. The population is approximately 5.4 million, and the average age is rather young at around 17.9 years old.',
             location: {
                 center: [-10.29426, 6.43569],
-                zoom: 6.5,
+                zoom: 6,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -57,7 +57,7 @@ var config = {
             description: 'Wazy Sato, Essonia Algea, Catherine Atchou, and Roger Atchou all immigrated to Iowa from Togo. Togo gained independence from France in 1960, and French is still the country&#39s official language.',
             location: {
                 center: [0.5, 8.74474],
-                zoom: 6.55,
+                zoom: 5.75,
                 pitch: 0,
                 bearing: 0
                 
@@ -76,7 +76,7 @@ var config = {
             'image':'https://kevinripka-uiowa.github.io/isle/yellow-stars.svg',
             description: 'Daniel and Dodo Batigue immigrated from the Democratic Republic of the Congo. The population sits at around 111 million, and the most commonly used langauges are French, Kituba, Lingala, Swahili, and Tshiluba.',
             location: {
-                center: [20.95954, -3.12716],
+                center: [18, -4],
                 zoom: 4.2,
                 pitch: 0,
                 bearing: 0
@@ -94,8 +94,8 @@ var config = {
             title: 'Cedar Rapids & Linn County',
             description: 'The state of Iowa and, in particular, Cedar Rapids has a rich history of welcoming immigrants dating back to the Vietnam War. Over the past few years, immigrants have accounted for around half of the county&#39s population growth. The three families our storytellers were embedded with all settled in the Cedar Rapids area, establishing community ties.',
             location: {
-                center: [-91.5, 41.97614],
-                zoom: 9,
+                center: [-91.5, 42.05],
+                zoom: 8.8,
                 pitch: 0,
                 bearing: 0.00
             },
