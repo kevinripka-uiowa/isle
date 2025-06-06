@@ -33,7 +33,7 @@ var config = {
             hidden: false,
             title: 'Liberia',
             'image':'https://kevinripka-uiowa.github.io/isle/red-stars.svg',
-            description: 'Darius and Wealee Nupolu immigrated from Liberia and now live in Iowa. The population is approximately 5.4 million, and the average age is rather young at around 17.9 years old.',
+            description: 'Darius and Wealee Nupolu emigrated from Liberia and now live in Iowa. The population is approximately 5.4 million, and the average age is rather young at around 17.9 years old.',
             location: {
                 center: [-10.29426, 6.43569],
                 zoom: 6,
@@ -74,7 +74,7 @@ var config = {
             hidden: false,
             title: 'Democratic Republic of the Congo',
             'image':'https://kevinripka-uiowa.github.io/isle/yellow-stars.svg',
-            description: 'Daniel and Dodo Batigue immigrated from the Democratic Republic of the Congo. The population sits at around 111 million, and the most commonly used langauges are French, Kituba, Lingala, Swahili, and Tshiluba.',
+            description: 'Daniel Batigue, Dodo Batigue, and Kisonia Mafuta, emigrated from the Democratic Republic of the Congo. The population sits at around 111 million, and the most commonly used langauges are French, Kituba, Lingala, Swahili, and Tshiluba.',
             location: {
                 center: [18, -4],
                 zoom: 4.2,
