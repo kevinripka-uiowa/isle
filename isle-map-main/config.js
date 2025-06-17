@@ -54,7 +54,7 @@ var config = {
             hidden: false,
             title: 'Togo',
             'image':'https://kevinripka-uiowa.github.io/isle/green-stars.svg',
-            description: 'Wazy Sato, Essonia Algea, Catherine Atchou, and Roger Atchou all immigrated to Iowa from Togo. Togo gained independence from France in 1960, and French is still the country&#39s official language.',
+            description: 'Wazy Sato, Lydie Algea, Roger Atchou, and Catherine all immigrated to Iowa from Togo. Togo gained independence from France in 1960, and French is still the country&#39s official language.',
             location: {
                 center: [0.5, 8.74474],
                 zoom: 5.75,
